@@ -6,7 +6,7 @@ public class Main
     {
         System.out.println("Hola");
     }
-
+    // Para que es este metodo
     public int sampleMethod(int y)
     {
         // put your code here
